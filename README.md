@@ -1,4 +1,4 @@
-# 🚖 QA Project – Cohorte 33 | José Pérez | Sprint 8 — Urban.Routes  
+# 🚖 Urban routes - App de movilidad urbana para pedir autos y ver rutas en tiempo real.
 
 ## 🧪 Automatización de pruebas UI con Selenium WebDriver + Pytest  
 Flujo completo **“Pedir un taxi”** en la aplicación **Urban.Routes**.  
